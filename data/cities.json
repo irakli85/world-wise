@@ -37,28 +37,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Batumi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Hometown",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": 41.643414,
+        "lng": 41.639900
       },
-      "id": 739303851
-    },
-    {
-      "cityName": "Portu",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 739303852
-    }
+      "id": 9844319745
+    }   
   ]
 }
